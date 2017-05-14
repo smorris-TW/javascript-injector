@@ -1,0 +1,5 @@
+--require ./test/common.js
+--colors
+--timeout 10000
+--slow 300
+--reporter spec
